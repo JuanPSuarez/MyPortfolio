@@ -19,4 +19,3 @@ export default function Navbar() {
       justifyContent: 'space-evenly' 
     }
   }
-  
